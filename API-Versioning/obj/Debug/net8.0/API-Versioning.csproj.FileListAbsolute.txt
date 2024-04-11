@@ -1,0 +1,72 @@
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\appsettings.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.exe
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.deps.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.runtimeconfig.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.pdb
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.AssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.API-Versioning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.build.API-Versioning.props
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Versioning.props
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API-Versioning.props
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\scopedcss\bundle\API-Versioning.styles.css
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.CopyComplete
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\refint\API-Versioning.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.pdb
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.genruntimeconfig.cache
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\obj\Debug\net8.0\ref\API-Versioning.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\Mohamed Ali\Desktop\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\appsettings.json
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.exe
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.deps.json
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.runtimeconfig.json
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\API-Versioning.pdb
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.AssemblyReference.cache
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.AssemblyInfoInputs.cache
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.AssemblyInfo.cs
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.CoreCompileInputs.cache
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.API-Versioning.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.build.API-Versioning.props
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API-Versioning.props
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API-Versioning.props
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\scopedcss\bundle\API-Versioning.styles.css
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.csproj.CopyComplete
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\refint\API-Versioning.dll
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.pdb
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\API-Versioning.genruntimeconfig.cache
+E:\Projects\Learn\API-Versioning\API-Versioning\obj\Debug\net8.0\ref\API-Versioning.dll

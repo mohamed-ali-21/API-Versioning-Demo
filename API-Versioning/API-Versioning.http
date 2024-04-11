@@ -1,0 +1,3 @@
+﻿@API-Versioning_HostAddress = https://localhost:7144
+
+GET {{API-Versioning_HostAddress}}/api/v3/customers
